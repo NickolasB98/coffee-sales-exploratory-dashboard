@@ -37,7 +37,7 @@ To create an interactive and visually appealing dashboard in Microsoft Excel to 
 - **Data-Driven Decision Making:** Enables informed business decisions regarding product development, marketing strategies, and customer loyalty programs.
 - **Enhanced User Experience:** Offers an interactive and user-friendly interface for exploring sales data.
 
-## Insights Deep Dive
+# Insights Deep Dive
 
 **Category 1: Sales Trends Over Time**
 
