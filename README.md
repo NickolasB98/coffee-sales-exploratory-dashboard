@@ -1,9 +1,12 @@
 # Coffee Sales Exploratory Dashboard (Excel)
 
-Excel: https://1drv.ms/x/c/dd3ad8a79f32ae05/EUcSFy-YUs1NjIsF-OTILesBN_-R11wqsV8vERKOgZetIg?e=McYSQc
-Short Description: This project involved the development of an interactive Coffee Sales Dashboard in Excel. Leveraging pivot tables, charts, and interactive slicers, the dashboard provides a dynamic overview of coffee sales performance. Key features include analysis of sales trends over time, sales by country, and top customers. Interactive filters enable users to explore sales data by roast type, packet weight, and loyalty card status, providing exploratory insights into customer preferences and sales patterns.
+**Excel Link:** https://1drv.ms/x/c/dd3ad8a79f32ae05/EUcSFy-YUs1NjIsF-OTILesBN_-R11wqsV8vERKOgZetIg?e=McYSQc
 
-![image.png](Coffee%20Sales%20Exploratory%20Dashboard%20(Excel)%2017db1a7e4bd880f3a39adfd1e316e594/image.png)
+## Short Description: 
+
+This project involved the development of an interactive Coffee Sales Dashboard in Excel. Leveraging pivot tables, charts, and interactive slicers, the dashboard provides a dynamic overview of coffee sales performance. Key features include analysis of sales trends over time, sales by country, and top customers. Interactive filters enable users to explore sales data by roast type, packet weight, and loyalty card status, providing exploratory insights into customer preferences and sales patterns.
+
+<img width="1224" alt="image" src="https://github.com/user-attachments/assets/6cf6c854-87ee-443c-b526-d84d740cf44c" />
 
 # **Project Objective**
 
