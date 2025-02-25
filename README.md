@@ -81,26 +81,6 @@ To create an interactive and visually appealing dashboard in Microsoft Excel to 
 * **Supporting Data:** The chart shows the sales amount for each of the top 5 customers.
 * **Implication:** This helps in understanding the concentration of sales among key customers.
 
-**Category 4: Interactive Filtering**
-
-**Main Insight 1: Impact of Roast Type on Sales**
-
-* **Finding:** Using the "Roast Type Name" slicer, users can analyze sales performance for different roast types (Dark, Light, Medium).
-* **Supporting Data:** By clicking on the slicer, the charts dynamically update.
-* **Implication:** This allows for identifying the most popular roast types and tailoring inventory and marketing strategies.
-
-**Main Insight 2: Impact of Packet Weight on Sales**
-
-* **Finding:** Using the "Size" slicer, users can analyze sales performance for different packet weights (0.2 kg, 1 kg, 2.5 kg).
-* **Supporting Data:** By clicking on the slicer, the charts dynamically update.
-* **Implication:** This allows for understanding consumer preferences for different packet sizes.
-
-**Main Insight 3: Impact of Loyalty Card on Sales**
-
-* **Finding:** Using the "Loyalty Card" slicer, users can analyze sales performance for customers with and without loyalty cards.
-* **Supporting Data:** By clicking on the slicer, the charts dynamically update.
-* **Implication:** This helps in evaluating the effectiveness of the loyalty program.
-
 ## Recommendations
 
 * Investigate the factors contributing to sales fluctuations over time.
